@@ -1643,11 +1643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\Git_Private\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+      "projectUniqueName": "C:\\work\\Git_Private\\Practice\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
       "projectName": "BlazorApp1",
-      "projectPath": "C:\\work\\Git_Private\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+      "projectPath": "C:\\work\\Git_Private\\Practice\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
       "packagesPath": "C:\\Users\\ayk12\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\Git_Private\\BlazorApp1\\BlazorApp1\\obj\\",
+      "outputPath": "C:\\work\\Git_Private\\Practice\\BlazorApp1\\BlazorApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
