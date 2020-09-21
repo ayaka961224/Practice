@@ -1,0 +1,9 @@
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\bin\Debug\netstandard2.1\BlazorOnNetlify.Shared.deps.json
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\bin\Debug\netstandard2.1\BlazorOnNetlify.Shared.dll
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\bin\Debug\netstandard2.1\BlazorOnNetlify.Shared.pdb
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\obj\Debug\netstandard2.1\BlazorOnNetlify.Shared.csprojAssemblyReference.cache
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\obj\Debug\netstandard2.1\BlazorOnNetlify.Shared.AssemblyInfoInputs.cache
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\obj\Debug\netstandard2.1\BlazorOnNetlify.Shared.AssemblyInfo.cs
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\obj\Debug\netstandard2.1\BlazorOnNetlify.Shared.csproj.CoreCompileInputs.cache
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\obj\Debug\netstandard2.1\BlazorOnNetlify.Shared.dll
+C:\work\Git_Private\Practice\BlazorOnNetlify\BlazorOnNetlify\Shared\obj\Debug\netstandard2.1\BlazorOnNetlify.Shared.pdb
